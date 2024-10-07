@@ -1,0 +1,1 @@
+A linux bash script for Raspian/Debian that is a frontend for the rm command made to log what files are removed, at what time, by which person. Includes a silent mode for anyonee that hates being logged.
